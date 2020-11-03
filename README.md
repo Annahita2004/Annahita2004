@@ -11,7 +11,7 @@
 
 - 💻 Be a Full Stack Developer .
 - :octocat: Learn **Git**
-- Learn Python prigramming language !
+- Learn Python programming language !
 
 <br>
 <br>
