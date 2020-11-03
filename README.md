@@ -25,25 +25,16 @@
 ### Find me ?
 <p><b>Social medias :</b></p>
 
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/GNU_Amir)
+<p>Wait for next commit !</p>
 
 <p><b>Email :</b></p>
 
 - 📫 How to reach me !?
-- Email is the best way , my email address : amirhosseinmohammadi1380@yahoo.com
+- Email is the best way , my email address : Miss.Annahita@yahoo.com
 
 <hr>
 
 ### My Friends ?
 <ul>
-    <li>My Real and The best Friend : <b><a href="https://github.com/erfansaberi">Erfan Saberi</a> &hearts;</b></li>
-    <li>Python Programmer Friend : <b><a href="https://github.com/manijamali2003">Mani Jamali</a></b></li>
-    <li>Front End Developer Friend : <b><a href="https://github.com/Amirmahdi-Kaheh">Amirmahdi Kaheh</a></b></li>
-    <li>Classmate : <b><a href="https://github.com/Arashshiri82">Arash Shiri</a></b></li>
+    <li>My Friend : <b><a href="https://github.com/BlackIQ">Amirhossein Mohammadi</a> &hearts;</b></li>
 </ul>
-
-<hr>
-
-### Follow GifHub on Telegram !
-<p>Join to <b>GitHub</b> for having too many Gifs !</p>
-<p><b><a href="https://t.me/GifHub_com">GitHub</a> !</b></p>
