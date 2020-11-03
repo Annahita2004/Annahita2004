@@ -8,6 +8,7 @@
 <br>
 
 <p><b>I am not a devloper yet , so I want to :</b></p>
+
 - 💻 Be a Full Stack Developer .
 - :octocat: Learn **Git**
 - Learn Python prigramming language !
@@ -26,6 +27,8 @@
 <p><b>Social medias :</b></p>
 
 <p>Wait for next commit !</p>
+
+<br>
 
 <p><b>Email :</b></p>
 
