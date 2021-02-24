@@ -18,6 +18,11 @@
 
 <hr>
 
+### My Stats ?
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=BlackIQ&show_icons=true)](https://github.com/BlackIQ)
+
+<hr>
+
 ### My Top Lang ?
 
 <p>Well , I am new on Github so give time to have a project !</p>
@@ -29,7 +34,11 @@
 ### Find me ?
 <p><b>Social medias :</b></p>
 
-<p>Wait for next commit !</p>
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/selena_lovers)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/annahita-mirhosseini)
+[<img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>](https://facebook.com/)
+[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>]https://www.instagram.com/ana.mir84)
+[<img src="https://img.icons8.com/color/48/000000/medium.png" width="3.5%"/>](https://medium.com/@annahita)
 
 <br>
 
