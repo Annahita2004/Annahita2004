@@ -45,8 +45,11 @@ elseif (You.Have.Instagram = true) {
 elseif (You.Have.Medium = true) {
 	Follow(<a href="https://medium.com/@annahita">My-Medium</a>)
 }
+elseif (You.Have.Dev = true) {
+	Follow(<a href="https://dev.to/annahita">My-Dev</a>)
+}
 else {
-	echo "<h1>Send me E-mail !</h1>"
+	echo "Send me E-mail !"
 	echo "<p><b>Miss.Annahita@yahoo.com</b></p>"
 }
 
