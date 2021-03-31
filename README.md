@@ -11,10 +11,15 @@
 
 - 💻 Be a Full Stack Developer .
 - :octocat: Learn **Git**
-- Learn Python prigramming language !
+- Learn Python programming language !
 
 <br>
 <br>
+
+<hr>
+
+### My Stats ?
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Annahita2004&show_icons=true)](https://github.com/Annahita2004)
 
 <hr>
 
@@ -27,16 +32,27 @@
 <hr>
 
 ### Find me ?
-<p><b>Social medias :</b></p>
+<p><b>You can follow me in social medias</b></p>
 
-<p>Wait for next commit !</p>
+<pre>
+
+if (You.Have.LinkedIn = true) {
+	Follow(<a href="https://linkedin.com/in/annahita-mirhosseini">My-LinkedIn</a>)
+}
+elseif (You.Have.Instagram = true) {
+	Follow(<a href="https://www.instagram.com/ana.mir84">My-Instagram</a>)
+}
+elseif (You.Have.Medium = true) {
+	Follow(<a href="https://medium.com/@annahita">My-Medium</a>)
+}
+else {
+	echo "<h1>Send me E-mail !</h1>"
+	echo "<p><b>Miss.Annahita@yahoo.com</b></p>"
+}
+
+</pre>
 
 <br>
-
-<p><b>Email :</b></p>
-
-- 📫 How to reach me !?
-- Email is the best way , my email address : Miss.Annahita@yahoo.com
 
 <hr>
 
@@ -44,3 +60,8 @@
 <ul>
     <li>My Friend : <b><a href="https://github.com/BlackIQ">Amirhossein Mohammadi</a> &hearts;</b></li>
 </ul>
+
+### Job Status
+<p><b>I am CTO and Co-Founder of Neotrinost</b></p>
+
+<p>For More Information <a href="https://neotrinost.ir">Click Here</a></p>
