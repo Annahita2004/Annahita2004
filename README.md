@@ -3,6 +3,13 @@
 I’m Annahita but call me Anna :)
 
 <details>
+	<summary>Github activity</summary>
+	
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Annahita2004&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/BlackIQ)
+
+</details>
+
+<details>
 	<summary>Social Media</summary>
 	
 ### My Social Medias
