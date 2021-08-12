@@ -2,33 +2,20 @@
 
 I’m Annahita but call me Anna :)
 
----
-
-**Here I am**
-
-You can follow me in social medias
-
-```python
-socialmedia = input("Witch social media you want : ")
-
-if socialmedia == "linkedin":
-    print("LinkedIn : https://linkedin.com/in/annahita-mirhosseini")
-    
-elif socialmedia == "instagram":
-    print("Instagram : https://www.instagram.com/ana.mir84")
+<details>
+	<summary>Social Media</summary>
 	
-elif socialmedia == "github":
-    print("Instagram : https://www.github.com/Annahita2004")
+### My Social Medias
 	
-elif socialmedia == "medium":
-    print("Medium : https://medium.com/@annahita")
+You can find me in these places
 	
-elif socialmedia == "dev":
-    print("Dev : https://dev.to/annahita")
+- [LinkedIn](https://linkedin.com/in/annahita-mirhosseini)
+- [Instagram](https://www.instagram.com/ana.mir84)
+- [Github](https://www.github.com/Annahita2004)
+- [Medium](https://medium.com/@annahita)
+- [Dev](https://dev.to/annahita)
 	
-else:
-    print("seems I dont have this social media, you can send me email Miss.Annahita@yahoo.com")
-```
+</details>
 
 ---
 
