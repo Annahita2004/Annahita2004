@@ -17,10 +17,27 @@ You can find me in these places
 	
 </details>
 
----
+<details>
+	<summary>Carrier</summary>
+	
+### My carrier and jobs
+	
+I am full-time cto and co-founder!
 
-**I am CTO and Co-Founder of <a href="https://github.com/Neotrinost">Neotrinost<a>**
-
-CEO and Founder, my friend <a href="https://github.com/BlackIQ">Amirhossein Mohammadi</a> 💖
-
-For More Information <a href="https://neotrinost.ir">Check our site</a>
+- **Neotrinost**
+	
+I am CTO and Co-Founder of **Neotrinost**
+	
+[Github](https://github.com/Neotrinost)
+	
+[Official Site](https://neotrinost.ir)
+	
+- **Novelvo**
+	
+I am CTO and Co-Founder of **Novelvo** too!
+	
+[Github](https://github.com/Novelvo)
+	
+[Official Site](https://novelvo.ir)
+	
+</details>
