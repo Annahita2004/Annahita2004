@@ -40,4 +40,6 @@ I am CTO and Co-Founder of **Novelvo** too!
 	
 [Official Site](https://novelvo.ir)
 	
+Both CEO and founder is [Amirhossein Mohammadi](https://github.com/BlackIQ) 💖
+	
 </details>
