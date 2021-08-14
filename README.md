@@ -1,3 +1,5 @@
+[![Github Profile Views](https://komarev.com/ghpvc/?username=Annahita2004&style=flat-square&color=lightgrey)](https://github.com/Annahita2004)
+
 ## Hi there 👋 !
 
 I’m Annahita but call me Anna :)
