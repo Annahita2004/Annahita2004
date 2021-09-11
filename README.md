@@ -2,19 +2,24 @@
 
 ## Hi there 👋 !
 
-I’m Annahita but call me Anna :)
+I’m Annahita.
 
 <details>
-	<summary>Github activity</summary>
+	<summary>Carrier</summary>
+	<br>
 	
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=Annahita2004&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/BlackIQ)
+Where I work
+	
+- **Neotrinost** | CTO & Co-Founder | [Site](https://neotrinost.ir) | [Github](https://github.com/Neotrinost)
+- **Novelvo** | CTO & Co-Founder | [Site](https://novelvo.ir) | [Github](https://github.com/Novelvo)
 
+*The CEO of the pair of brands is [Amirhossein Mohammadi](https://github.com/BlackIQ)* 💖
+	
 </details>
 
 <details>
 	<summary>Social Media</summary>
-	
-### My Social Medias
+	<br>
 	
 You can find me in these places
 	
@@ -23,32 +28,5 @@ You can find me in these places
 - [Github](https://www.github.com/Annahita2004)
 - [Medium](https://medium.com/@annahita)
 - [Dev](https://dev.to/annahita)
-	
-</details>
-
-<details>
-	<summary>Carrier</summary>
-	
-### My carrier and jobs
-	
-I am full-time cto and co-founder!
-
-- **Neotrinost**
-	
-I am CTO and Co-Founder of **Neotrinost**
-	
-[Github](https://github.com/Neotrinost)
-	
-[Official Site](https://neotrinost.ir)
-	
-- **Novelvo**
-	
-I am CTO and Co-Founder of **Novelvo** too!
-	
-[Github](https://github.com/Novelvo)
-	
-[Official Site](https://novelvo.ir)
-	
-Both CEO and founder is [Amirhossein Mohammadi](https://github.com/BlackIQ) 💖
 	
 </details>
