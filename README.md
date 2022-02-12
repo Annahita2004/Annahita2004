@@ -2,18 +2,9 @@
 
 I’m Annahita.
 
-<details>
-	<summary>Carrier</summary>
-	<br>
-	
-Where I work
-	
-- **Neotrinost** | CTO & Co-Founder | [Site](https://neotrinost.ir) | [Github](https://github.com/Neotrinost)
-- **Novelvo** | CTO & Co-Founder | [Site](https://novelvo.ir) | [Github](https://github.com/Novelvo)
+I was CTO and co-founder of Neotrinost organization where we managed sub organizations like **Novelvo**, **Botrinost** and others.
 
-*The CEO of the pair of brands is [Amirhossein Mohammadi](https://github.com/BlackIQ)* 💖
-	
-</details>
+Also I was designer and front-end developer in Jobnic.
 
 <details>
 	<summary>Social Media</summary>
