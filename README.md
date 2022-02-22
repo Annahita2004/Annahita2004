@@ -13,8 +13,6 @@ Also I was designer and front-end developer in Jobnic.
 You can find me in these places
 	
 - [LinkedIn](https://linkedin.com/in/annahita-mirhosseini)
-- [Instagram](https://www.instagram.com/ana.mir84)
-- [Github](https://www.github.com/Annahita2004)
 - [Medium](https://medium.com/@annahita)
 - [Dev](https://dev.to/annahita)
 	
